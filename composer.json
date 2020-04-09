@@ -1,0 +1,19 @@
+{
+    "name": "koala\/sms",
+    "description": "A sms SDK",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "koala",
+            "email": "348222507@qq.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Koala\\Sms\\": "src"
+        }
+    }
+}
