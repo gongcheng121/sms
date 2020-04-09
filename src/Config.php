@@ -6,7 +6,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Koala\Sms;
+namespace koalaGC\Sms;
 
 use ArrayAccess;
 class Config implements \ArrayAccess

@@ -6,7 +6,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Koala\Sms\Exception;
+namespace koalaGC\Sms\Exception;
 
 
 class GatewayErrorException extends Exception

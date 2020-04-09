@@ -6,18 +6,18 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Koala\Sms\Gateways;
+namespace koalaGC\Sms\Gateways;
 
 
-use Koala\Sms\Config;
-use Koala\Sms\Contracts\MessageInterface;
-use Koala\Sms\Exception\GatewayErrorException;
-use Koala\Sms\Traits\HasHttpRequest;
+use koalaGC\Sms\Config;
+use koalaGC\Sms\Contracts\MessageInterface;
+use koalaGC\Sms\Exception\GatewayErrorException;
+use koalaGC\Sms\Traits\HasHttpRequest;
 
 /**
  * 互易无线发送短信接口封装
  *
- * @package Koala\Sms\Gateways
+ * @package koalaGC\Sms\Gateways
  */
 class HuyiGateway extends Gateway
 {
