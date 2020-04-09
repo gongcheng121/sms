@@ -6,7 +6,7 @@
 ## Installing
 
 ```shell
-$ composer require koala/sms -vvv
+$ composer require koala-gc/sms 
 ```
 
 ## Usage
