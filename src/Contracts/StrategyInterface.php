@@ -6,7 +6,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace koalaGC\Sms\Contracts;
+namespace Koala\Sms\Contracts;
 
 
 interface StrategyInterface

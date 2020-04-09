@@ -6,11 +6,11 @@
  * with this source code in the file LICENSE.
  */
 
-namespace koalaGC\Sms;
+namespace Koala\Sms;
 
 
-use koalaGC\Sms\Contracts\GatewayInterface;
-use koalaGC\Sms\Contracts\MessageInterface;
+use Koala\Sms\Contracts\GatewayInterface;
+use Koala\Sms\Contracts\MessageInterface;
 
 class Message implements MessageInterface
 {

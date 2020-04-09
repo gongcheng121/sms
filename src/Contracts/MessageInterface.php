@@ -6,12 +6,12 @@
  * with this source code in the file LICENSE.
  */
 
-namespace koalaGC\Sms\Contracts;
+namespace Koala\Sms\Contracts;
 
 /**
  * Interface MessageInterface
  * 消息体结构
- * @package koalaGC\Sms\Contracts
+ * @package Koala\Sms\Contracts
  */
 interface MessageInterface
 {

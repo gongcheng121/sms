@@ -6,7 +6,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace koalaGC\Sms;
+namespace Koala\Sms;
 
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider

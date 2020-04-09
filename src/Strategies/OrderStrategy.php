@@ -6,10 +6,10 @@
  * with this source code in the file LICENSE.
  */
 
-namespace koalaGC\Sms\Strategies;
+namespace Koala\Sms\Strategies;
 
 
-use koalaGC\Sms\Contracts\StrategyInterface;
+use Koala\Sms\Contracts\StrategyInterface;
 
 class OrderStrategy implements StrategyInterface
 {

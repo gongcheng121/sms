@@ -6,7 +6,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace koalaGC\Sms\Exception;
+namespace Koala\Sms\Exception;
 
 
 class HttpException extends Exception

@@ -6,12 +6,12 @@
  * with this source code in the file LICENSE.
  */
 
-namespace koalaGC\Sms\Gateways;
+namespace Koala\Sms\Gateways;
 
 
 
-use koalaGC\Sms\Config;
-use koalaGC\Sms\Contracts\GatewayInterface;
+use Koala\Sms\Config;
+use Koala\Sms\Contracts\GatewayInterface;
 
 /**
  * Class Gateway.

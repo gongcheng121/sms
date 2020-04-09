@@ -6,14 +6,14 @@
  * with this source code in the file LICENSE.
  */
 
-namespace koalaGC\Sms\Contracts;
+namespace Koala\Sms\Contracts;
 
 
-use koalaGC\Sms\Config;
+use Koala\Sms\Config;
 
 /**
  * Interface GatewayInterface
- * @package koalaGC\Sms\Contracts
+ * @package Koala\Sms\Contracts
  */
 interface GatewayInterface
 {

@@ -6,11 +6,11 @@
  * with this source code in the file LICENSE.
  */
 
-namespace koalaGC\Sms;
+namespace Koala\Sms;
 
 
-use koalaGC\Sms\Contracts\MessageInterface;
-use koalaGC\Sms\Exception\NoGatewayAvailableException;
+use Koala\Sms\Contracts\MessageInterface;
+use Koala\Sms\Exception\NoGatewayAvailableException;
 
 class Messenger
 {

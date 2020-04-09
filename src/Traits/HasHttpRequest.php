@@ -6,7 +6,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace koalaGC\Sms\Traits;
+namespace Koala\Sms\Traits;
 
 
 use GuzzleHttp\Client;

@@ -6,16 +6,16 @@
  * with this source code in the file LICENSE.
  */
 
-namespace koalaGC\Sms;
+namespace Koala\Sms;
 
 
 use Closure;
-use koalaGC\Sms\Contracts\GatewayInterface;
-use koalaGC\Sms\Contracts\MessageInterface;
-use koalaGC\Sms\Contracts\StrategyInterface;
-use koalaGC\Sms\Exception\InvalidArgumentException;
-use koalaGC\Sms\Gateways\Gateway;
-use koalaGC\Sms\Strategies\OrderStrategy;
+use Koala\Sms\Contracts\GatewayInterface;
+use Koala\Sms\Contracts\MessageInterface;
+use Koala\Sms\Contracts\StrategyInterface;
+use Koala\Sms\Exception\InvalidArgumentException;
+use Koala\Sms\Gateways\Gateway;
+use Koala\Sms\Strategies\OrderStrategy;
 use RuntimeException;
 
 class Sms
