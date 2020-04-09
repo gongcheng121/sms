@@ -31,7 +31,11 @@ $config=[
             ]
         ];
 
+//不使用短信模板
     $res = $sms->send('$mobile','您的验证码是：123456 。 请不要把验证码泄露给其他人。',['huyi']);
+//使用短信模板
+    $res = $sms->send('$mobile',['content'=>'您的验证码是：123456 。 请不要把验证码泄露给其他人。','template'=>'123'],['huyi']);
+
 ```
 
 ## Contributing
